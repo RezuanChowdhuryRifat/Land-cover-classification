@@ -1,1 +1,1 @@
-# Land-cover-classification
+# SETI Signal Classification
